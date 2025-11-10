@@ -11,7 +11,7 @@
 <h1 align="center">🏛️ Ashish Singh — Enterprise Architecture Portfolio</h1>
 
 <p align="center">
-  <b>Director, Enterprise Architecture & GCC Transformation</b><br>
+  <b>Enterprise Architect & GCC Transformation</b><br>
   <i>Architecting Cloud-First Futures — Driving Transformation from Vision to Execution.</i>
 </p>
 

@@ -36,19 +36,8 @@ Each paper captures a practical application of **Enterprise Architecture princip
 
 ---
 
-Data Mesh & Lakehouse CoE Model**](./Whitepapers/Data-Services-CoE) | 📊 Data Architecture | Federated data ownership and platform governance design for enterprise-wide analytics adoption. |
+
 
 ---
 
-## 🧩 Architecture Snippet Example
 
-```plantuml
-@startuml
-title Backoffice → GCC Digital Transformation (FinTech)
-actor "FinTech Ops Team" as Ops
-rectangle "Legacy Backoffice" as Legacy
-rectangle "GCC Digital Platform" as GCC
-Ops --> Legacy : Manual Ops
-Legacy -[#FF8C00]-> GCC : Process Automation
-GCC -[#228B22]-> Core : API Integration
-@enduml

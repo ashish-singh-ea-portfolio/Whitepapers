@@ -27,7 +27,7 @@
 
 ## 🧭 About This Portfolio
 
-This repository is a **curated showcase of my professional whitepapers, frameworks, and architecture blueprints**, authored during global transformation initiatives across **banking, fintech, and energy domains**.
+This repository is a **curated showcase of my professional whitepapers, frameworks, and architecture blueprints**, authored during global transformation initiatives.
 
 Each paper captures a practical application of **Enterprise Architecture principles**, aligning TOGAF thinking with **cloud adoption**, **GCC operating models**, and **data-driven transformation**.
 

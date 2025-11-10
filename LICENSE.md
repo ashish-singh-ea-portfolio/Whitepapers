@@ -23,6 +23,6 @@ This portfolio and its contents — including white papers, diagrams, frameworks
 ---
 
 <p align="center">
-  <b>“Enterprise Architect | Architecting Cloud-First Futures.”</b><br>
+  <b>“Enterprise Architect | Driving Strategy to Success | Architecting the Future of Business ”</b><br>
   © 2025 Ashish Singh • All Rights Reserved
 </p>

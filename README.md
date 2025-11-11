@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Ashish Singh — Enterprise Architecture Portfolio" width="100%">
+  <img src="banner.png" alt="Ashish Singh — Enterprise Architecture Portfolio" width="100%">
 </p>
 
 <h1 align="center">🏛️ Ashish Singh — Enterprise Architecture Portfolio</h1>

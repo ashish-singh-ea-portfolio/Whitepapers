@@ -158,10 +158,4 @@ It aligns business strategy, regulatory needs, and modern digital engineering in
 cohesive transformation path.
 The resulting GCC is not a support function — but a digital nerve center powering
 analytics, automation, DevSecOps, and regulatory governance at scale.
-About the Author
-Ashish Singh
-Enterprise Architect | TOGAF® Certified | Cloud & Digital Transformation Leader
-Ashish specializes in architecting large-scale digital transformation programs across cloud,
-AI, and data modernization. He helps organizations build mature Enterprise Architecture
-capabilities that drive measurable transformation outcomes across Global Capability
-Centers (GCCs).
+
